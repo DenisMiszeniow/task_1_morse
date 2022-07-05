@@ -1,9 +1,22 @@
 
 # SETTINGS FOR TYPING OF MORSE:
+
 SHORT PUSH TO SPACE - dot (.) (less then 100ms)
+
 LONGER PUSH TO SPACE - dash (-) (from 100ms to 1000 ms)
+
 THE LONGEST PUSH TO SPACE - Space between letters (more then 1000 ms)
+
 SIX TIME DOT (......) - Space between words
+
+
+#TASK MORSE DECODER:
+
+Napisz aplikacje w React.js pozwalającą na tworzenie wiadomości za pomocą alfabetu morsa za pomocą jednego przycisku. 
+Przycisk można wcisnąć krótko lub długo (klawiaturą (SPACJA) KeyUp/Down lub zdarzenia myszki od wciśnięcia do puszczenia ). 
+Poza przyciskiem aplikacja powinna wyświetlać wiadomość za pomocą liter odszyfrowanych z kodu morsa w polu pod przyciskiem.
+Aplikacja nie musi rozpoznawać wszystkich liter, wystarczy kilka np. S, O, S, (ale mile widziana będzie obsługa wszystkich liter). 
+
 
 
 
