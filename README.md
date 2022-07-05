@@ -1,3 +1,12 @@
+
+# SETTINGS FOR TYPING OF MORSE:
+SHORT PUSH TO SPACE - dot (.) (less then 100ms)
+LONGER PUSH TO SPACE - dash (-) (from 100ms to 1000 ms)
+THE LONGEST PUSH TO SPACE - Space between letters (more then 1000 ms)
+SIX TIME DOT (......) - Space between words
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  margin: 20px 0 0 0;
+}
+.App span {
+  display: block;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: aquamarine;
+  padding: 10px 0 10px 0;
+  margin: 20px 0 20px 0;
 }
 
 .App-logo {
