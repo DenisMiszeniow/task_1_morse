@@ -10,7 +10,7 @@ THE LONGEST PUSH TO SPACE - Space between letters (more then 1000 ms)
 SIX TIME DOT (......) - Space between words
 
 
-#TASK MORSE DECODER:
+# TASK MORSE DECODER:
 
 Napisz aplikacje w React.js pozwalającą na tworzenie wiadomości za pomocą alfabetu morsa za pomocą jednego przycisku. 
 Przycisk można wcisnąć krótko lub długo (klawiaturą (SPACJA) KeyUp/Down lub zdarzenia myszki od wciśnięcia do puszczenia ). 
